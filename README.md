@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitMARX
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javaa
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a community of Coders
 - 📫 How to reach me? markalexyap@gmail.com
 
