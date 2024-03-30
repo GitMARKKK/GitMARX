@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitMARX
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a community of Coders
+- 👀 I’m interested in coding/programming/developing
+- 🌱 I’m currently learning multiple programming languages
+- 💞️ I’m looking to collaborate on a community of coders/programmers/developers
 - 📫 How to reach me? markalexyap@gmail.com
 
 <!---
