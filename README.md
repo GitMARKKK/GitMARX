@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GitMARX
+- 👋 Hi, I’m Mark Alex Formentera
 - 👀 I’m interested in coding/programming/developing
 - 🌱 I’m currently learning multiple programming languages
 - 💞️ I’m looking to collaborate on a community of coders/programmers/developers
